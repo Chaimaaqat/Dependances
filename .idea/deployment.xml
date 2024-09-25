@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="projetmanga" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="projetmanga">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PHP/projetManga/" local="$PROJECT_DIR$" web="/PHP/projetManga/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
